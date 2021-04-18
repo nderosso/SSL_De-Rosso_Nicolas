@@ -1,1 +1,1 @@
-El código imprime la frase "Hola Mundo"
+Este código imprime la frase "Hola Mundo"
